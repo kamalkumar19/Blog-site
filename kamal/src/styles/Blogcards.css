@@ -1,0 +1,22 @@
+.cards{
+    width: 35rem;
+    height: 18rem;
+    border-radius: 5px;
+    background-color:white; 
+    display: flex;
+    align-items: center;
+   padding: 1.5rem; 
+   margin-bottom: 1.5rem;
+} 
+.left img{
+    background-size:cover;
+    width: 15rem;
+    height: 15rem;
+} 
+.left{
+    max-width: 18rem;
+    height: 14rem;
+} 
+.right{
+    padding-left:1rem;
+}
